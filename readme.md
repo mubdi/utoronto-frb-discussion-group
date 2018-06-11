@@ -1,6 +1,14 @@
-# University of Toronto FRB Discussion Group
 
-Welcome to the Github home of the University of Toronto Fast Radio Burst Discussion Group
+Welcome to the home of the University of Toronto Fast Radio Burst Discussion Group
+
+We meet **biweekly on Mondays at 11 AM** in the **Astronomy Building** in the **Second Floor Lounge**. 
+
+The goals of the group are:
+* Comprehensively outline all the literature about Fast Radio Bursts
+* To provide a forum to share knowledge about Fast Radio Bursts within the U of T Community
+* Provide an opportunity for scientists of all stripes to ask questions about FRBs
+
+We rely on volunteers to lead paper discussions, so please sign up for papers here: [https://docs.google.com/spreadsheets/d/1U_wEliQThPlyt-auFGRNrfsniYMJZJmxjuWhnvlx6UY/edit?usp=sharing Paper Discussion Google Sheet]
 
 ## Calendar of Meetings
 
