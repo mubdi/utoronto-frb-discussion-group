@@ -10,7 +10,7 @@ The goals of the group are:
 
 We rely on volunteers to lead paper discussions, so please sign up for papers here: [Paper Discussion Google Sheet](https://docs.google.com/spreadsheets/d/1U_wEliQThPlyt-auFGRNrfsniYMJZJmxjuWhnvlx6UY/edit?usp=sharing) 
 
-If you would like to be added to the e-mail list, please shoot an e-mail to mubdi.rahman@utoronto.ca. 
+If you would like to be added to the e-mail list, please shoot an e-mail to mubdi.rahman@utoronto.ca. Also, feel free to share any/all comments and or questions you have. 
 
 ## Calendar of Meetings
 
