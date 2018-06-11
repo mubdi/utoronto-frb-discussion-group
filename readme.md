@@ -8,7 +8,9 @@ The goals of the group are:
 * To provide a forum to share knowledge about Fast Radio Bursts within the U of T Community
 * Provide an opportunity for scientists of all stripes to ask questions about FRBs
 
-We rely on volunteers to lead paper discussions, so please sign up for papers here: [https://docs.google.com/spreadsheets/d/1U_wEliQThPlyt-auFGRNrfsniYMJZJmxjuWhnvlx6UY/edit?usp=sharing Paper Discussion Google Sheet]
+We rely on volunteers to lead paper discussions, so please sign up for papers here: [Paper Discussion Google Sheet](https://docs.google.com/spreadsheets/d/1U_wEliQThPlyt-auFGRNrfsniYMJZJmxjuWhnvlx6UY/edit?usp=sharing) 
+
+If you would like to be added to the e-mail list, please shoot an e-mail to mubdi.rahman@utoronto.ca. 
 
 ## Calendar of Meetings
 
